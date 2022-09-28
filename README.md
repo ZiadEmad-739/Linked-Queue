@@ -1,1 +1,1 @@
-# Linked Queue Data Structure Implementation
+# LinkedQueue Data Structure Implementation
